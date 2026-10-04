@@ -1,0 +1,36 @@
+---
+title: "Red flags"
+date-modified: 2026-10-02
+---
+
+::: {.status}
+**Version 0.1.** Failures reported by practitioners at ACLCA 2026. This list grows as members contribute cases; [send us yours](../get-involved.qmd).
+:::
+
+## Fabricated references and hyperlinks
+
+**What happened:** citations that look plausible but do not exist. **Why it matters here:** the real literature on a new technology is thin, which makes invented citations more likely. **Do instead:** open every source before using it.
+
+## Chemical equations that do not balance
+
+**What happened:** AI-researched reaction equations were often not stoichiometrically balanced on the first pass. **Why it matters here:** every inventory value derived from them inherits the error. **Do instead:** balance and check equations yourself or with deterministic tools before they enter the model.
+
+## Silent boundary mismatches
+
+**What happened:** AI compared cradle-to-gate results against cradle-to-grave results, and studies with different allocation choices, without flagging the difference. **Do instead:** never accept an AI comparison of studies without confirming boundaries, functional units, and allocation match. Interpretation stays human-led.
+
+## Confident mapping to the wrong dataset
+
+**What happened:** suggested background datasets did not match the system modeled. **Why it matters here:** a novel material often has no correct match, and AI will pick something anyway. **Do instead:** choose proxies explicitly and document the rationale.
+
+## Plausible explanations only expertise could catch
+
+**What happened:** AI produced reasonable-sounding explanations for data discrepancies; only the practitioner's process knowledge kept a wrong one out of the report. **Do instead:** treat AI explanations as hypotheses to test. If nobody on the team can evaluate an explanation independently, it does not go in.
+
+## Bench scale data scaled naively
+
+**What happened:** models trained on lab data misled at plant scale, because heating, cooling, and catalyst dynamics do not scale linearly. **Do instead:** treat scale-up estimates as scenarios with ranges, grounded in engineering calculation or simulation.
+
+## Inventory values generated from nothing
+
+**What happened:** asked for a number it could not know, the AI produced one anyway. This was the most strongly condemned practice at the session. **Do instead:** collect the data, calculate it, use a disclosed proxy with uncertainty, or report the gap.

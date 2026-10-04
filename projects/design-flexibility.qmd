@@ -1,0 +1,35 @@
+---
+title: "Design flexibility across TRL"
+date-modified: 2026-09-28
+---
+
+::: {.status}
+**Status:** subgroup forming; first framework brainstorm underway. **Leads:** Rachel and Sylvia <!-- TODO: add full names and affiliations -->
+:::
+
+## The question
+
+Across scale-up from idea to market, at which stages are design choices still flexible and where do they lock in? Where can LCA actually inform a decision, rather than report on a system that is already fixed?
+
+## Early evidence from ACLCA 2026
+
+In a breakout session, participants took a technology, picked a design choice, and judged when it becomes costly to change. Some of their answers:
+
+| Technology | Design choice | When it locks in |
+|---|---|---|
+| Biomass pyrolysis | Feedstock and siting near the feedstock | Should be decided before about TRL 4 |
+| Direct air capture | Sorbent and material composition | About 90 percent locked once invested in a pilot plant, around TRL 5 |
+| Bio-vanillin | Manufacturing process | TRL 7 to 8, after capital commitment to a specific design |
+| Brain-computer interface | System integration and product lifetime | Effectively locked once implanted |
+
+One group pointed out that costs and multiyear supply contracts, not TRL alone, often drive lock-in, and suggested considering Adoption Readiness Levels alongside TRLs.
+
+## Current work
+
+- Mapping a framework of flexibility versus lock-in across scale-up stages
+- Developing an interactive graphic for this site
+- Recruiting subgroup members
+
+## How to help
+
+Practitioners with real examples of design decisions informed by LCA, or decisions made too late for LCA to matter, are especially welcome. [Join us](../get-involved.qmd).

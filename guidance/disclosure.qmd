@@ -1,0 +1,42 @@
+---
+title: "Disclosure template"
+date-modified: 2026-10-02
+---
+
+::: {.status}
+**Version 0.1.** Near consensus at ACLCA 2026: if AI contributed to a study, say so. The point is reproducibility, not confession.
+:::
+
+## AI-compiled versus AI-generated
+
+An **AI-compiled** value was found and assembled by AI from sources you can check. An **AI-generated** value has no source outside the model. Compiled values are disclosed and cited. Generated values should generally not be in your inventory at all.
+
+## What to declare
+
+Copy this into the methods section or an appendix of your report or paper, and fill in each item.
+
+```
+AI use disclosure (working group template v0.1)
+
+1. Where AI was used: tasks (literature search, data extraction,
+   dataset mapping, gap filling, code, drafting) and which results
+   or numbers each task affected.
+2. Which system: tool or model name, version, and date of use;
+   whether a confidential, non-training endpoint was used for
+   proprietary data.
+3. Compiled or generated: for each AI-assisted value, whether it
+   was compiled from citable sources (cite them) or model-estimated
+   (give the method and its range of validity).
+4. Verification: who reviewed what, against which sources or
+   calculations, and what was corrected.
+5. Repeatability: whether rerunning the AI step gives the same
+   answer, and if not, how the reported value was fixed.
+6. Uncertainty: how model-estimated values were treated, and
+   whether they were included in sensitivity analysis.
+7. Responsibility: the named practitioner who signs for the
+   numbers. AI assistance does not transfer responsibility.
+```
+
+## A note on the minority view
+
+Some practitioners argue disclosure is unnecessary because the signing human is always responsible, as with any search tool. The professional engineers at the session drew the opposite conclusion: because they stamp and seal results, they must be able to show how every number was obtained. Disclosure is part of that due diligence. Regulation is also moving this way; one respondent noted the EU AI Act already requires disclosure in some contexts.

@@ -1,0 +1,61 @@
+﻿project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "LCA of Emerging Technologies"
+  description: "What we are working on: tiered LCA, AI for LCA of emerging technologies, and design flexibility across TRL."
+  # CHANGE THIS to your real GitHub Pages address before publishing (needed for the RSS feed)
+  site-url: "https://shatadkp.github.io/lca-emerging-tech/"
+  repo-url: "https://github.com/shatadkp/lca-emerging-tech"
+  repo-actions: [edit, issue]
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: updates/index.qmd
+        text: Updates
+      - text: Projects
+        menu:
+          - href: projects/tiers.qmd
+            text: Tiers of LCA
+          - href: projects/ai-for-lca.qmd
+            text: AI for LCA of emerging technologies
+          - href: projects/design-flexibility.qmd
+            text: Design flexibility across TRL
+      - text: Guidance
+        menu:
+          - href: guidance/index.qmd
+            text: Overview
+          - href: guidance/decision-tool.qmd
+            text: Decision tool by TRL
+          - href: guidance/disclosure.qmd
+            text: Disclosure template
+          - href: guidance/red-flags.qmd
+            text: Red flags
+          - href: guidance/literature.qmd
+            text: Literature inventory
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+    right:
+      - href: get-involved.qmd
+        text: Join us
+      - icon: rss
+        href: updates/index.xml
+        aria-label: RSS feed of updates
+  page-footer:
+    left: "A working group of the ACLCA LCA of Emerging Technologies community. Draft content for discussion; not an official ACLCA position."
+    right: "Every page shows when it was last updated. [Suggest a change](/get-involved.qmd)."
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, styles-dark.scss]
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    mainfont: "Source Serif 4"

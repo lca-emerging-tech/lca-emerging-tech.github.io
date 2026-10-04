@@ -1,0 +1,49 @@
+---
+title: "Decision tool by TRL"
+date-modified: 2026-10-02
+---
+
+::: {.status}
+**Version 0.1.** Draft for discussion. Signals reflect community input and the literature as of October 2026.
+:::
+
+[Assist]{.chip .assist} reliable with normal review ·
+[Verify closely]{.chip .verify} usable with checks and disclosure ·
+[Avoid]{.chip .avoid} conditions for reliable inference are not met ·
+[Human-led]{.chip .human} a judgment task; AI as discussion partner at most
+
+| AI task | TRL 1 to 3 (concept, lab) | TRL 4 to 6 (bench to pilot) | TRL 7 to 9 (demo to commercial) |
+|---|---|---|---|
+| Literature review and summarizing | [Assist]{.chip .assist} | [Assist]{.chip .assist} | [Assist]{.chip .assist} |
+| Extracting data from documents you supply | [Assist]{.chip .assist} | [Assist]{.chip .assist} | [Assist]{.chip .assist} |
+| Writing code and automating workflows | [Assist]{.chip .assist} | [Assist]{.chip .assist} | [Assist]{.chip .assist} |
+| Mapping items to background datasets | [Verify closely]{.chip .verify} | [Verify closely]{.chip .verify} | [Assist]{.chip .assist} |
+| Predicting process parameters from simulation-trained models | [Verify closely]{.chip .verify} | [Verify closely]{.chip .verify} | [Assist]{.chip .assist} |
+| Rapid impact screening with streamlined models | [Verify closely]{.chip .verify} | [Verify closely]{.chip .verify} | [Verify closely]{.chip .verify} |
+| Filling missing LCI data from similar processes | [Avoid]{.chip .avoid} | [Verify closely]{.chip .verify} | [Verify closely]{.chip .verify} |
+| Generating inventory values with no source | [Avoid]{.chip .avoid} | [Avoid]{.chip .avoid} | [Avoid]{.chip .avoid} |
+| Goal and scope, boundaries, allocation, interpretation | [Human-led]{.chip .human} | [Human-led]{.chip .human} | [Human-led]{.chip .human} |
+
+## Why each row is rated the way it is
+
+**Literature review and summarizing.** The most common use in our ACLCA survey (33 of 41 respondents). Reliable only when you open the sources yourself, because fabricated references are a documented failure, and thin literature on new technologies raises that risk.
+
+**Extracting data from documents you supply.** Session feedback was consistent: AI does far better with material you give it than when it searches on its own. Spot check extracted values against the source.
+
+**Writing code.** Code can be run and reviewed, which makes this low risk at any TRL.
+
+**Mapping to background datasets.** A novel material often has no good match, and AI will confidently pick one anyway. Chemical mapping failed more often than it succeeded for some practitioners. At high TRL with conventional supply chains, suggestions plus human confirmation work well.
+
+**Predicting process parameters.** Useful for yields, energy demand, and upscaling, but the simulation's assumptions carry into the prediction and must be reported with it. Bench scale behavior does not always scale linearly; heating, cooling, and catalyst dynamics change with scale.
+
+**Streamlined impact screening.** Models that predict impacts directly from design descriptors are fine for directional early screening. They are black boxes: no contribution analysis, lower accuracy than process-based calculation, and reliable only for products similar to the training data. Label results as screening estimates.
+
+**Filling missing LCI data.** The systematic review by Pauliks et al. (2026) found similarity-based gap filling worked best when roughly 95 percent of the inventory was already collected and the technology evolved from existing ones. Both conditions fail at low TRL by definition.
+
+**Generating values with no source.** Red at every TRL. If no source exists, the honest options are primary data, an engineering calculation, a disclosed proxy with uncertainty, or a reported data gap.
+
+**Goal and scope and interpretation.** Practitioners placed these firmly with humans, and published reviews find almost no AI applications here. These are value choices: an AI answer can be plausible, never simply correct.
+
+## How this connects to tiers
+
+Whether an AI-estimated value is acceptable also depends on the purpose of the study. A screening-level, exploratory assessment can tolerate more estimated data than a robust one, provided it is disclosed. See the [Tiers of LCA](../projects/tiers.qmd) project.

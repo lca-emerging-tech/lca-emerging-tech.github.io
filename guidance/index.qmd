@@ -1,0 +1,23 @@
+---
+title: "Guidance for using AI in LCA of emerging technologies"
+date-modified: 2026-10-02
+---
+
+::: {.status}
+**Version 0.1, October 2, 2026. Next review by January 2027.** AI tools change fast: participants at ACLCA 2026 noted that hallucination behavior changed noticeably within six months. We review this guidance quarterly, and each page shows its own date.
+:::
+
+These pages are the working outputs of the [AI for LCA of emerging technologies](../projects/ai-for-lca.qmd) project. They are drafts for discussion, built from community input at ACLCA 2026 and from the published literature.
+
+## Two principles behind everything here
+
+**Assist, do not invent.** AI that retrieves, summarizes, maps, or checks information is assistance. AI that produces inventory values with no underlying source is generation, which practitioners at ACLCA 2026 described as bordering on malpractice.
+
+**Trust but verify, and verify more at low TRL.** Model predictions are reliable only near their training data. An emerging technology is, by definition, far from most of it.
+
+## The pages
+
+- [Decision tool by TRL](decision-tool.qmd): which AI tasks are reliable at which stage of technology development
+- [Disclosure template](disclosure.qmd): what to declare when AI contributed to a study
+- [Red flags](red-flags.qmd): failures practitioners have actually seen, and what to do instead
+- [Literature inventory](literature.qmd): the papers we are reviewing and what each contributes

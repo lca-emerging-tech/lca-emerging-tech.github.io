@@ -1,0 +1,12 @@
+---
+title: "Updates"
+listing:
+  contents: "20*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  date-format: "MMMM D, YYYY"
+---
+
+News from the working group, newest first. We post after meetings and whenever guidance, papers, or events change. Subscribe with the RSS link in the top bar to get new posts automatically.

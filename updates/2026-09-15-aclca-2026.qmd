@@ -1,0 +1,30 @@
+---
+title: "What practitioners told us about AI at ACLCA 2026"
+date: 2026-09-15
+description: "Survey and breakout results from our special session, and what they mean for our guidance."
+categories: [Events, AI for LCA, Design flexibility]
+---
+
+Our 90-minute special session at ACLCA 2026 drew roughly 80 people. About 40 answered a live survey on using AI for LCA of emerging technologies, followed by two rounds of breakout discussions.
+
+## Where AI sits in practice today
+
+Literature review (33 respondents) and data gathering (28) lead, followed by writing code (17), running the LCA steps (11), and building the process model itself (9). The closer a task is to the core model, the less people use AI.
+
+## What people want from guidance
+
+Asked what our guidance would need to contain for them to use it, respondents split almost evenly: worked examples (29), disclosure templates (26), and a decision tool by TRL (25). Our first drafts of all three are on the [guidance pages](../guidance/index.qmd).
+
+## Themes from the discussions
+
+1. **Assist, do not invent.** Using AI to generate data that does not exist was described as bordering on malpractice.
+2. **Trust but verify, at every TRL.** Several people named thresholds, such as below pilot scale, where verification becomes essential, because bench scale data does not always scale.
+3. **Keep judgment human.** Goal and scope, boundaries, allocation, and interpretation should stay with the practitioner.
+4. **Disclose.** A strong majority favored disclosing which numbers and content were AI assisted.
+5. **Is 90 percent enough?** The best answers asked first whether the missing 10 percent matters for the decision. For a screening study, it may not.
+
+## Design flexibility breakout
+
+The second breakout asked when design choices lock in. Answers ranged from before TRL 4 for siting a biomass pyrolysis plant to TRL 7 to 8 for a bio-based manufacturing process. See the [design flexibility project](../projects/design-flexibility.qmd).
+
+Thank you to everyone who took part.

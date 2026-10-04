@@ -1,0 +1,21 @@
+---
+title: "Literature inventory"
+date-modified: 2026-10-02
+---
+
+::: {.status}
+**Living list.** The full review sheet, with 34 fields per paper, is kept in the group workspace. This page shows the anchor papers and what each contributes. [Suggest a paper](../get-involved.qmd).
+:::
+
+| Paper | Type | Focus | Takeaway for our work | Status |
+|---|---|---|---|---|
+| [Pauliks et al. 2026, *Frontiers in Sustainability*](https://doi.org/10.3389/frsus.2026.1854730) | Systematic review | ML in prospective LCA | Only 2 of 50 studies explicitly do prospective LCA; LCI gap filling transfers best but needs most data already collected; uncertainty assessed in 14 of 50 | Discussed |
+| [Kumar et al. 2026, preprint](https://doi.org/10.21203/rs.3.rs-9984806/v1) | Critical analysis | Technical, ethical, organizational risks | 148 applications scored; fairness, transparency, accountability, and sustainability risks rated high; names prospective LCA as future work | Reviewed |
+| [Blanco et al. 2024, *Curr. Opin. Green Sustain. Chem.*](https://doi.org/10.1016/j.cogsc.2024.100979) | Perspective | ML for prospective LCA of chemicals | Frames the data challenges of prospective LCA and the limits of predicting far from training data | Journal club |
+| [Salla et al. 2025, *Int. J. LCA*](https://doi.org/10.1007/s11367-025-02437-8) | Review and guide | ML for impact prediction | Practical how-to; closest existing guidance, but not specific to emerging technologies or TRL | Journal club |
+| [Romeiko et al. 2024, *Sci. Total Environ.*](https://doi.org/10.1016/j.scitotenv.2023.168969) | Review | ML across LCA phases | Widely cited map of the field; documents gaps in reporting and validation | Journal club |
+| [Nwagwu et al. 2025, *J. Sustain. Metall.*](https://doi.org/10.1007/s40831-025-01305-x) | Framework | Automation versus human expertise | Asks where human intervention is required in AI-assisted LCA | Optional reading |
+
+## What we record for each paper
+
+Reviewer and status; TRL range of the technology; whether it is prospective LCA; AI category and what the AI actually does; foreground or background data; human in the loop; training data; validation; uncertainty treatment; whether the model extrapolates beyond its training data; and relevance to our framework.

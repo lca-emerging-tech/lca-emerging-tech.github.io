@@ -1,0 +1,18 @@
+---
+title: "This website is live"
+date: 2026-10-02
+description: "One place to see what the working group is doing, updated as the work moves."
+categories: [Working group]
+---
+
+The working group now has its own website, so anyone can see what we are working on and how to take part.
+
+We chose a website over waiting for journal papers because AI in LCA moves too fast for a slow publication cycle. Following a white paper approach, we will publish work in progress, date and version everything, and update it as we learn.
+
+What is here now:
+
+- Pages for our three projects: [Tiers of LCA](../projects/tiers.qmd), [AI for LCA of emerging technologies](../projects/ai-for-lca.qmd), and [Design flexibility across TRL](../projects/design-flexibility.qmd)
+- Version 0.1 of our [AI guidance](../guidance/index.qmd): a decision tool by TRL, a disclosure template, and a red flags list
+- This updates feed, which we will add to after our meetings
+
+Feedback is welcome. Every page has a link at the bottom to suggest a change.

@@ -1,0 +1,23 @@
+---
+title: "About the working group"
+date-modified: 2026-10-02
+---
+
+## Who we are
+
+We are a volunteer working group within the ACLCA community focused on life cycle assessment of emerging technologies. Members come from universities, national laboratories, consultancies, and industry. Historically the group drew mostly on energy systems; we are actively widening that, and recently welcomed members from sectors such as flooring and building products.
+
+## Why emerging technologies need their own approach
+
+An LCA of an established product draws on existing inventory databases. An LCA of a technology at lab or pilot scale cannot: the factory does not exist, the supply chain is undecided, and the future background system is uncertain. Many practitioners are uncomfortable doing LCA in that setting. Our work aims to make it more rigorous, more transparent about its limits, and more useful while designs can still change.
+
+## How we work
+
+- The full working group meets online every two weeks to share progress across projects.
+- Each project runs as a subgroup with its own meetings in between.
+- We publish early and iterate, in the spirit of a white paper. Guidance on this site carries a version number and a review date, because the field, and AI tools especially, change quickly.
+- Past work has appeared in the *Journal of Industrial Ecology*, and we present regularly at ACLCA and ISSST.
+
+## How this site relates to ACLCA
+
+The group operates within the ACLCA community. This site is maintained by the working group itself so that it can be updated continuously. Content here is draft material for discussion and does not represent an official ACLCA position.

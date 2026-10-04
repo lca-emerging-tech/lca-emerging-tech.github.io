@@ -1,0 +1,48 @@
+---
+title: "LCA of Emerging Technologies Working Group"
+toc: false
+page-layout: full
+title-block-banner: false
+listing:
+  id: latest
+  contents: "updates/20*.qmd"
+  sort: "date desc"
+  type: table
+  max-items: 4
+  fields: [date, title, description]
+  sort-ui: false
+  filter-ui: false
+  date-format: "MMMM D, YYYY"
+---
+
+::: {.hero}
+[Life cycle assessment of technologies that do not exist at scale yet is hard: the data is thin, the designs are still changing, and AI tools are arriving faster than guidance on how to use them. We are a volunteer community of LCA researchers and practitioners working on these problems in the open, publishing early and updating often.]{.lead}
+:::
+
+## What we are working on
+
+::: {.project-cards}
+::: {.card-p}
+### [Tiers of LCA](projects/tiers.qmd)
+A framework for grading how robust an LCA of an emerging technology can be, indicator by indicator. Paper in final drafting.
+:::
+::: {.card-p}
+### [AI for LCA of emerging technologies](projects/ai-for-lca.qmd)
+When AI assistance is reliable, when it needs close checking, and when it should not be used, mapped to technology readiness. Literature review and journal club underway.
+:::
+::: {.card-p}
+### [Design flexibility across TRL](projects/design-flexibility.qmd)
+Where in scale-up design choices are still open and where they lock in, so LCA can inform decisions instead of reporting after them. Subgroup forming now.
+:::
+:::
+
+## What's new
+
+::: {#latest}
+:::
+
+[All updates](updates/index.qmd) · [Subscribe by RSS](updates/index.xml)
+
+::: {.join-cta}
+**Want to take part?** We meet online every two weeks and welcome practitioners, researchers, and industry members from any sector. [See how to join](get-involved.qmd).
+:::

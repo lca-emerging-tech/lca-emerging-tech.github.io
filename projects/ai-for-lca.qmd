@@ -1,0 +1,37 @@
+---
+title: "AI for LCA of emerging technologies"
+date-modified: 2026-10-02
+---
+
+::: {.status}
+**Status:** literature review and journal club underway; guidance drafts published as v0.1. **Lead:** Poonam Sutar, University of Maine <!-- TODO: confirm leads and collaborators -->
+:::
+
+## The question
+
+Practitioners increasingly use AI to extract data, fill inventory gaps, and extend assessments into data-sparse territory. But adoption has outpaced evaluation, and the conditions for reliable AI inference are least likely to hold for emerging technologies. When should practitioners trust AI assistance, and how should they disclose it?
+
+## What we are building
+
+A practitioner-facing guidance framework with four parts:
+
+1. **Opportunity map:** the LCA stages and data types where AI assistance is reliable and adds real value
+2. **Red flags:** conditions under which AI-generated results should be treated with skepticism, disclosed with caveats, or avoided, especially at low TRL
+3. **Transparency standards:** how to document AI-assisted assumptions, uncertainty, and model limits
+4. **TRL connection:** AI reliability and data gap severity mapped to stages of technology development, as a practical decision tool
+
+The ACLCA 2026 community asked for exactly three things from this guidance, almost equally: a decision tool by TRL, disclosure templates, and worked examples. First drafts of each are on the [guidance pages](../guidance/index.qmd).
+
+## How it connects to the other projects
+
+The [design flexibility project](design-flexibility.qmd) maps which design choices are still open at each TRL. This project maps what practitioners can reliably know about those choices through AI at the same stages. Together they show where sustainability leverage and confidence overlap. The [tiers framework](tiers.qmd) sets how complete an assessment must be, which tells us how much AI-estimated data a given tier can tolerate.
+
+## Current work
+
+- Systematic literature review using a shared template that records TRL range, AI category, training data, validation, and uncertainty treatment for each paper
+- Biweekly journal club discussing anchor papers in depth
+- Turning ACLCA 2026 feedback into the decision tool, disclosure template, and red flags list
+
+## How to help
+
+Read and log a paper, share an AI failure case you have seen, or review the guidance drafts. [Join us](../get-involved.qmd).

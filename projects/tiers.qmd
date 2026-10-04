@@ -1,0 +1,39 @@
+---
+title: "Tiers of LCA for emerging technologies"
+date-modified: 2026-09-28
+---
+
+::: {.status}
+**Status:** paper in final drafting. **Lead:** Liz Wachs, National Laboratory of the Rockies <!-- TODO: lead to confirm name and affiliation -->
+:::
+
+## The question
+
+How can practitioners be confident and transparent about what an LCA of an emerging technology can and cannot claim, given that early-stage data is always limited?
+
+## The approach
+
+People often avoid LCA of emerging technologies because they feel the data is not good enough. Our answer is to grade the assessment rather than avoid it. Building on the pedigree data quality matrix, we define a set of indicators covering how an LCA of an emerging technology is conducted, including uncertainty, data quality, and multifunctional systems, and qualify each one against three tiers ranging from exploratory to robust.
+
+- An **exploratory** assessment can still be worth doing: it is directional, and its uncertainty is high.
+- A **robust** assessment has enough quantitative data to support stronger claims about the size of the impacts.
+- Tiers are assigned **per indicator, not per study.** Reviewing published case studies, we found papers are rarely a single tier across every indicator.
+- Tiers are tied mainly to the **goal and scope** of a study rather than to TRL. A higher TRL gives you a choice of tiers; a low TRL limits which tiers are attainable.
+
+## Current work
+
+- Finalizing the indicator matrix, including the newly drafted uncertainty indicator
+- Integrating lessons from tiered frameworks in other fields such as health and national security
+- Adding the EPA and EU data quality guidance to the background section
+- Case studies chosen to bracket the range of tiers, including cultivated meat and hyperloop examples
+- Clarifying the paper's target audience and structure
+
+## Next milestones
+
+- Group sign-off on the final matrix
+- Choose the target journal and submit
+- Abstract for ISSST
+
+## How to help
+
+Reviewers of the draft and anyone with case studies that illustrate a tier well are welcome. [Get in touch](../get-involved.qmd).

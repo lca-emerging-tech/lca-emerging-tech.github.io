@@ -1,0 +1,31 @@
+---
+title: "Publications and events"
+date-modified: 2026-10-02
+---
+
+## Publications
+
+### In progress
+
+- **Tiers of LCA for emerging technologies.** Paper in final drafting; target journal under discussion (the *International Journal of Life Cycle Assessment* is the current lead option). See the [project page](projects/tiers.qmd).
+
+### Earlier work
+
+- The group's two previous papers appeared in the *Journal of Industrial Ecology*.
+
+<!-- TODO: add full citations and DOIs for the two JIE papers -->
+
+### Working documents
+
+- [ACLCA 2026 feedback synthesis](updates/2026-09-15-aclca-2026.qmd): what about 40 practitioners told us about AI in LCA of emerging technologies.
+
+## Events
+
+### Past
+
+- **ACLCA 2026 special session.** A 90-minute interactive session with roughly 80 attendees, a live survey, and two breakout rounds: AI for LCA of emerging technologies, and mapping design degrees of freedom across TRL. [Read the takeaways](updates/2026-09-15-aclca-2026.qmd).
+
+### Upcoming
+
+- **ISSST.** Planned as the group's next conference venue. No abstract yet; contact the [Tiers project](projects/tiers.qmd) if you would like to help.
+- **AI subgroup journal club.** Held at the subgroup's biweekly meetings. Current readings are listed in the [literature inventory](guidance/literature.qmd).

@@ -1,0 +1,25 @@
+---
+title: "Join us"
+date-modified: 2026-10-02
+---
+
+We welcome LCA practitioners, researchers, students, and industry members from any sector. You do not need AI expertise to contribute, and you do not need to commit to a fixed amount of time.
+
+## Ways to take part
+
+1. **Join a meeting.** The full working group meets online every two weeks. Ask any project lead or use the contact form below, and we will send you the invitation.
+2. **Join a project.** Each project page lists what it needs help with right now:
+    - [Tiers of LCA](projects/tiers.qmd)
+    - [AI for LCA of emerging technologies](projects/ai-for-lca.qmd)
+    - [Design flexibility across TRL](projects/design-flexibility.qmd)
+3. **Contribute without joining.** Send us a paper for the [literature inventory](guidance/literature.qmd), an AI failure you have seen for the [red flags list](guidance/red-flags.qmd), or a correction to anything on this site.
+
+## How to contact us
+
+<!-- TODO: replace with the group's real form link before publishing -->
+- **Contact form:** [link to be added]
+- **On GitHub:** if you have an account, open an issue on [the site repository](https://github.com/lca-emerging-tech/website/issues), or use the "Report an issue" link at the bottom of any page.
+
+## What happens after you reach out
+
+A member of the group will reply, add you to the meeting invitation, and point you to the project that fits your interests.

@@ -1,0 +1,13 @@
+---
+title: "Working group meeting: tiers paper progress and a new member"
+date: 2026-09-28
+description: "Matrix nearly final, terminology settled, and plans for the website."
+categories: [Meeting notes, Tiers of LCA]
+---
+
+Highlights from our biweekly working group meeting:
+
+- **Welcome.** A sustainability director from the flooring industry joined the group, bringing a sector perspective we have not had before. Flooring has been an early adopter of supply chain specific LCA.
+- **Tiers paper.** The uncertainty indicator is now drafted in the matrix and will be discussed at the next meeting. The group agreed to use "multifunctional" rather than "multi-product" systems. The final matrix will be circulated for sign-off, and the case study selection and target audience are being revisited.
+- **Website.** The group agreed to build a website so work can be shared earlier and updated often, rather than waiting on journal publication.
+- **Subgroups.** The AI subgroup continues to meet on alternate weeks; the design flexibility subgroup is recruiting members.

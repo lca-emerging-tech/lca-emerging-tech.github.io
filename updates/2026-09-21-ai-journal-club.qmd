@@ -1,0 +1,14 @@
+---
+title: "AI subgroup launches a journal club"
+date: 2026-09-21
+description: "Three anchor papers selected for in-depth discussion."
+categories: [Meeting notes, AI for LCA]
+---
+
+The AI for LCA of emerging technologies subgroup is moving from collecting papers to discussing them in depth.
+
+- A shared review template now records, for every paper, the TRL range, the AI method, the training data, validation, and uncertainty treatment.
+- Three anchor papers were selected for the next session: Blanco et al. (2024), Salla et al. (2025), and Romeiko et al. (2024), with Nwagwu et al. (2025) as optional reading. See the [literature inventory](../guidance/literature.qmd).
+- The subgroup also reviewed survey results from ACLCA 2026 and agreed to keep building website content first, revisiting later whether a journal paper should follow.
+
+Observations shared from ACLCA: AI adoption across LCA has accelerated sharply in the past year, and verification is becoming the bottleneck. As tools grow more complex, checking their outputs can take longer than doing simpler work by hand, and future reviewers may lack the hands-on experience needed to check them. That makes training in LCA fundamentals more important, not less.
