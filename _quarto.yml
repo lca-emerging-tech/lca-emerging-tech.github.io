@@ -6,8 +6,8 @@ website:
   title: "LCA of Emerging Technologies"
   description: "What we are working on: tiered LCA, AI for LCA of emerging technologies, and design flexibility across TRL."
   # CHANGE THIS to your real GitHub Pages address before publishing (needed for the RSS feed)
-  site-url: "https://shatadkp.github.io/lca-emerging-tech/"
-  repo-url: "https://github.com/shatadkp/lca-emerging-tech"
+  site-url: "https://sarwlabs.github.io/lca-emerging-tech/"
+  repo-url: "https://github.com/SARWLabs/lca-emerging-tech"
   repo-actions: [edit, issue]
   page-navigation: true
   navbar:
