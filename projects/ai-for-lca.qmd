@@ -4,7 +4,7 @@ date-modified: 2026-10-02
 ---
 
 ::: {.status}
-**Status:** literature review and journal club underway; guidance drafts published as v0.1. **Lead:** Poonam Sutar, University of Maine <!-- TODO: confirm leads and collaborators -->
+**Status:** literature review and journal club underway; guidance drafts published as v0.1. **Lead:** Poonam, Joule <!-- TODO: confirm leads and collaborators -->
 :::
 
 ## The question
