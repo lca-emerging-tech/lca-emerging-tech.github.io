@@ -4,7 +4,7 @@ date-modified: 2026-09-28
 ---
 
 ::: {.status}
-**Status:** subgroup forming; first framework brainstorm underway. **Leads:** Rachel and Sylvia <!-- TODO: add full names and affiliations -->
+**Status:** subgroup forming; first framework brainstorm underway. **Leads:** Rachel <!-- TODO: add full names and affiliations -->
 :::
 
 ## The question
