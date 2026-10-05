@@ -4,7 +4,7 @@ date-modified: 2026-09-28
 ---
 
 ::: {.status}
-**Status:** paper in final drafting. **Lead:**  <!-- TODO: lead to confirm name and affiliation -->
+**Status:** paper in final drafting. **Lead:** Joule, Liz, Lisa... <!-- TODO: lead to confirm name and affiliation -->
 :::
 
 ## The question
